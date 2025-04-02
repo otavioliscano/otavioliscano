@@ -7,7 +7,6 @@ Eu sou o Otávio Liscano, sou um programador Front End com alto potencial, faço
 
 :pushpin:<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
-:pushpin:<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java-logo" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioliscano)](https://github.com/anuraghazra/github-readme-stats)
 
